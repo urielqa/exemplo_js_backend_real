@@ -349,7 +349,9 @@ ISC
 
 ## 👨‍💻 Autor
 
-**Uriel Sampaio**
+**📧 Email**: `urielsqa@gmail.com`  
+**📱 WhatsApp**: `+55 11 94701-3629`  
+**📍 Localização**: `Jandira - SP, Brasil`
 
 ---
 
