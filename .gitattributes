@@ -1,0 +1,15 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# JavaScript files
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+
+# Batch files should use CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Binary files
+*.db binary
